@@ -19,7 +19,7 @@
   Contact me:
   </h4>
  
- [![](https://img.shields.io/badge/-mojtabasalehi.k@outlook.com-ffffff)](mailto:mojtabasalehi.k@outlook.com)
+ [![](https://img.shields.io/badge/-mojtabasalehi.k@outlook.com-e0e0e0)](mailto:mojtabasalehi.k@outlook.com)
  
  <a href="https://linkedin.com/in/kordeone" target="_blank">
    <img align="center" alt="Kordeone | Linkedin " width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-256.png"</a>
