@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
- <a href="https://linkedin.com/in/johnkirtley16" target="_blank">
+ <a href="https://linkedin.com/in/kordeone" target="_blank">
    <img align="center" alt="John Kirtley | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
   
   <a href="https://twitter.com/johnkirtley_" target="_blank">
