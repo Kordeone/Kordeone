@@ -30,18 +30,30 @@
 
 <br>
   
- <hr>
-
+ <hr >
   
+   
+<a href="https://github.com/Kordeone/Kordeone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kordeone&count_private=true&show_icons=true&bg_color=0A0C10&title_color=F0F3F6&text_color=F0F3F6&icon_color=F0F3F6&border_color=F0F3F6&custom_title=Kordeone%27s%20GitHub%20stats" />
+</a>
+  <a href="https://github.com/Kordeone/Kordeone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kordeone&count_private=true&&bg_color=0A0C10&title_color=F0F3F6&text_color=F0F3F6&icon_color=F0F3F6&border_color=F0F3F6&layout=compact&count_private=true&show_icons=true" />
+</a>
+  
+   </div>
+
+<br>
+  
+
+ 
+
 <!--
    <a href="" target="_blank">
     <img align="center" alt="Kordeone | Twitter" width="41px" src="1https://www.iconfinder.com/icons/4375108/logo_telegram_icon" />
    </a>
 
 
- </div>
 
-<br>
 
  ### Frequently Used Languages and Tools 
   
