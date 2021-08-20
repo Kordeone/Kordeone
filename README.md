@@ -32,6 +32,7 @@
   
  <hr >
   
+<!--
    
 <a href="https://github.com/Kordeone/Kordeone">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kordeone&count_private=true&show_icons=true&bg_color=0A0C10&title_color=F0F3F6&text_color=F0F3F6&icon_color=F0F3F6&border_color=F0F3F6&custom_title=Kordeone%27s%20GitHub%20stats" />
@@ -39,6 +40,7 @@
   <a href="https://github.com/Kordeone/Kordeone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kordeone&count_private=true&&bg_color=0A0C10&title_color=F0F3F6&text_color=F0F3F6&icon_color=F0F3F6&border_color=F0F3F6&layout=compact&count_private=true&show_icons=true" />
 </a>
+ -->
   
    </div>
 
